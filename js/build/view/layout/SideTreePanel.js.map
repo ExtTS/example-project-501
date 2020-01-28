@@ -1,0 +1,1 @@
+{"version":3,"file":"SideTreePanel.js","sourceRoot":"","sources":["../../../src/view/layout/SideTreePanel.ts"],"names":[],"mappings":"AAMA,GAAG,CAAC,MAAM,CAAC,+BAA+B,EAAwD;IAC9F,MAAM,EAAE,iBAAiB;IACzB,KAAK,EAAE,wBAAwB;IAE/B,QAAQ,EAAE;QACN,0BAA0B;KAC7B;IAEJ,MAAM,EAAC,KAAK;IAEZ,mDAAmD;IAEhD,KAAK,EAAE,EAAE,CAAC,mDAAmD;CAChE,CAAC,CAAC"}
